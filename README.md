@@ -7,14 +7,14 @@
   - 链表 Linked List
   - 栈 Stack，队列 Queue
 - 字符串 String
-- 二叉树
-- 树
-- 图
+- 二叉树 Binary Tree
+- 树 Tree
+- 图 Graph
 #### 算法
 - 排序算法 Sorting
 - 外排序 External Sorting
-- 查找算法
-- 高级数据结构（红黑树、AVL树等）
+- 查找算法 Searching
+- 高级数据结构（红黑树、AVL树等）Advanced DS
 
 
   
